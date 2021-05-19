@@ -11,6 +11,7 @@ var bird, slingshot;
 var gameState = "onSling";
 var bg = "sprites/bg.png"
 
+
 function preload() {
     getTime()
 }
